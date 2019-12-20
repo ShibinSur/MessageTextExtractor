@@ -15,7 +15,7 @@ import (
 )
 
 //Remove this and make it argument
-const authToken = "0yXxC2Vh/TocqO9ukMKkhXWvHz_Kt8HOxRWb51OeiyeY-"
+const authToken = "XXX" //Your scalyr read token
 const url string = "https://app.scalyr.com/api/query"
 var interestWords = []string{"otp", "verification code"}
 
