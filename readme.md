@@ -5,9 +5,10 @@ Helps get 10K random message text within past 72 hours from Scalyr(non-redacted)
 * Generate a CSV for the found entries
 * Gets text from Scalyr
 
-TODO
+## TODO
 * Error handling 
 * Docs
 
-How to execute
+## How to execute
 * On Mac : go run cmd.go <back_start_hour>
+

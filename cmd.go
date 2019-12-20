@@ -16,7 +16,7 @@ import (
 )
 
 //Remove this and make it argument
-const token = "0yXxC2Vh/TocqO9ukMKkhXWvHz_Kt8HOxRWb51OeiyeY-"
+const token = "XXX" //Your Scalyr token here
 const scalyrUrl string = "https://app.scalyr.com/api/query"
 var skipKeyWords = []string{"password", "otp", "reminder", "verification", "redacted", "zomato", "imo", "order for", "verification Code"}
 
